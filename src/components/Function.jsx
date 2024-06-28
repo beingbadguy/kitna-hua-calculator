@@ -61,7 +61,7 @@ const Function = () => {
       </form>
       <div
         className='flex items-center
-      justify-center'
+      justify-between'
       >
         <img
           src='./dab.png'
