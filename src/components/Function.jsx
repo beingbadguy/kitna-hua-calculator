@@ -61,14 +61,14 @@ const Function = () => {
       </form>
       <div
         className='flex items-center
-      justify-between'
+      justify-center'
       >
         <img
           src='./dab.png'
           alt=''
           className={`h-[200px] w-[200px] ${val && val != 'ache se btaiye!!' ? 'block' : 'hidden'}`}
         />
-        <p className='text-black  text-center mt-10 ml-[-50px] text-3xl'> {val}</p>
+        <p className='text-black  text-center mt-10 text-3xl'> {val}</p>
       </div>
     </div>
   );
