@@ -20,7 +20,6 @@ const Function = () => {
     const cost = (1000 / weight).toFixed(2) + ' gm';
     setVal(cost);
   };
-  console.log(val);
 
   return (
     <div>
