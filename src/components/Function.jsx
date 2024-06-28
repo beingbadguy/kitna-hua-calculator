@@ -68,7 +68,7 @@ const Function = () => {
           alt=''
           className={`h-[200px] w-[200px] ${val && val != 'ache se btaiye!!' ? 'block' : 'hidden'}`}
         />
-        <p className='text-black  mt-10 mx-8 ml-[-15px] text-3xl'> {val}</p>
+        <p className='text-black  text-center mt-10 text-3xl'> {val}</p>
       </div>
     </div>
   );
