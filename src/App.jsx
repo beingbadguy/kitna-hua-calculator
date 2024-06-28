@@ -11,7 +11,7 @@ const App = () => {
       <div className='mt-10'>
         <Function />
       </div>
-      <p className='text-black text-center mt-10 mb-10 '>Created with ♡ by Aman Kumar </p>
+      <p className='text-black text-center mt-10 mb-3 '>Created with ♡ by Aman Kumar </p>
     </div>
   );
 };
